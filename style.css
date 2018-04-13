@@ -66,3 +66,6 @@ div#nav ul li a {
 div#nav ul li a:hover {
   background-color: limegreen;
 }
+div#wrapper{
+  background:linear-gradient(180deg,#66d9ff,#66ffcc)
+}
